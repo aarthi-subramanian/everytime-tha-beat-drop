@@ -9,7 +9,7 @@ As a result, these companies try to build algorithms or recommenders to provide 
 Here, we'll use data from The Echo Nest, a research group that has complied metadata on millions of tracks. We'll further supplement this dataset with further information on track characteristics. We'll try to leverage all of these attributes to build a few classification models to predict whether a track should be classified as genre "hip-hop" or "rock".
 
 ### Key skills
-Python. Pandas data manipulation, matplotlib data visualisation, scikit-learn machine learning techniques (e.g. PCA, logistic regression, decision tree, balancing data, k-fold cross-validation)
+Pandas data manipulation, matplotlib data visualisation, scikit-learn machine learning techniques (e.g. PCA, logistic regression, decision tree, balancing data, k-fold cross-validation)
 
 ### References
 
